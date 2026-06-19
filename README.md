@@ -4,7 +4,7 @@ Patch PT-BR para Jisatsu no Tame no 101 no Houhou
 <img src="https://github.com/kikachangames/j101/blob/main/img/capa.png">
 <br/>
 
-<h3>"Queime os frutos da tentação onde quer que os encontre."</h3>
+<h3>"Para alguém como eu, que já não consegue encontrar certeza em seus pensamentos... O que resta para mim?"</h3>
 <p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da visual novel <a href="https://vndb.org/v6475" target="_blank">Jisatsu no Tame no 101 no Houhou</a>, lançada pela Duke em 2001.</p>
 <br/>
 
