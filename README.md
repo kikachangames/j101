@@ -1,7 +1,7 @@
 # j101
 Patch PT-BR para Jisatsu no Tame no 101 no Houhou
 
-<img src="https://github.com/kikachangames/j101/img/capa.png">
+<img src="https://github.com/kikachangames/j101/blob/main/img/capa.png">
 <br/>
 
 <h3>"Queime os frutos da tentação onde quer que os encontre."</h3>
