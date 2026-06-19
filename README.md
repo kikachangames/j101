@@ -1,7 +1,7 @@
 # j101
 Patch PT-BR para Jisatsu no Tame no 101 no Houhou
 
-<img src="https://kikachangames.github.io/j101/img/capa.png">
+<img src="https://github.com/kikachangames/j101/img/capa.png">
 <br/>
 
 <h3>"Queime os frutos da tentação onde quer que os encontre."</h3>
@@ -31,9 +31,9 @@ E um aluno rodeado de rumores sombrios...</p>
 <p>A ser anunciado.</p>
 <br/>
 
-<img src="https://kikachangames.github.io/j101/img/print_1.png">
-<img src="https://kikachangames.github.io/j101/img/print_2.png">
-<img src="https://kikachangames.github.io/j101/img/print_3.png">
+<img src="https://github.com/kikachangames/j101/img/print_1.png">
+<img src="https://github.com/kikachangames/j101/img/print_2.png">
+<img src="https://github.com/kikachangames/j101/img/print_3.png">
 <br/><br/>
 
 <h1>Equipe</h1>
