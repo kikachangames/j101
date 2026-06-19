@@ -79,7 +79,6 @@ E um aluno rodeado de rumores sombrios...</p>
 <h2>Download do patch</h2>
 
 <p>Em breve.</p>
-
 <br/>
 <br/>
 
