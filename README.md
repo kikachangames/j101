@@ -31,9 +31,9 @@ E um aluno rodeado de rumores sombrios...</p>
 <p>A ser anunciado.</p>
 <br/>
 
-<img src="https://github.com/kikachangames/j101/img/print_1.png">
-<img src="https://github.com/kikachangames/j101/img/print_2.png">
-<img src="https://github.com/kikachangames/j101/img/print_3.png">
+<img src="https://github.com/kikachangames/j101/blob/main/img/print_1.png">
+<img src="https://github.com/kikachangames/j101/blob/main/img/print_2.png">
+<img src="https://github.com/kikachangames/j101/blob/main/img/print_3.png">
 <br/><br/>
 
 <h1>Equipe</h1>
