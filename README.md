@@ -12,7 +12,7 @@ Patch PT-BR para Jisatsu no Tame no 101 no Houhou
 <p>Takuji Torabishi ouve um som que ele nomeou de "Cinza". Ele não sabe a razão por trás desse som e finalmente começou a perder a habilidade de discernir entre "fantasia" e "realidade".
 </p>
 <p></p>"Fantasia" e "realidade", "vida" e "morte". Estando entre esses conceitos, ele começou a procurar provas de que "vive na realidade".</p>
-<br>
+
 <p>Uma meia-irmã que esconde coisas de seu irmão.<br/>
 Uma energética amiga de infância.<br/>
 Uma linda garota com uma frieza que contrasta com sua aparência fofa.<br/>
