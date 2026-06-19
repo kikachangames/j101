@@ -74,6 +74,7 @@ E um aluno rodeado de rumores sombrios...</p>
 <a href="https://eien.nl/en/index.html/" target="_blank">eien</a>
 <a href="https://github.com/Galladite27/ONScripter-EN/" target="_blank">Galladite27</a>
 <br/>
+<br/>
 
 <h2>Download do patch</h2>
 
