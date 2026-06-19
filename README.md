@@ -10,7 +10,7 @@
 <br />
 <br /></p>
 
-<img src="https://github.com/kikachangames/j101/blob/main/img/capa.png">
+<img src="https://kikachangames.github.io/j101/img/capa.png">
 <br/>
 
 <h3>"Para alguém como eu, que já não consegue encontrar certeza em seus pensamentos... O que resta para mim?"</h3>
@@ -40,9 +40,9 @@ E um aluno rodeado de rumores sombrios...</p>
 <p>A ser anunciado.</p>
 <br/>
 
-<img src="https://github.com/kikachangames/j101/blob/main/img/print_1.png">
-<img src="https://github.com/kikachangames/j101/blob/main/img/print_2.png">
-<img src="https://github.com/kikachangames/j101/blob/main/img/print_3.png">
+<img src="https://kikachangames.github.io/j101/img/print_1.png">
+<img src="https://kikachangames.github.io/j101/img/print_2.png">
+<img src="https://kikachangames.github.io/j101/img/print_3.png">
 <br/><br/>
 
 <h1>Equipe</h1>
