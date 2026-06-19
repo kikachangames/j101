@@ -1,5 +1,14 @@
-# j101
-Patch PT-BR para Jisatsu no Tame no 101 no Houhou
+<div class="tags-badges">
+  <img src="https://img.shields.io/badge/18+-darkred?style=flat" alt="Conteúdo 18+" />
+  <img src="https://img.shields.io/badge/denpa-2f3e46?style=flat" alt="Denpa" />
+  <img src="https://img.shields.io/badge/escola-1e3a8a?style=flat" alt="Escola" />
+  <img src="https://img.shields.io/badge/viol%C3%AAncia%20extrema-4b0000?style=flat" alt="Violência Extrema" />
+  <img src="https://img.shields.io/badge/fetiche-5c4d7d?style=flat" alt="Fetiche" />
+</div>
+
+<p>⚠️ AVISO: Este jogo não é adequado para menores ou pessoas sensíveis.
+<br />
+<br /></p>
 
 <img src="https://github.com/kikachangames/j101/blob/main/img/capa.png">
 <br/>
