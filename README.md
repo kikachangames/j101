@@ -70,10 +70,11 @@ E um aluno rodeado de rumores sombrios...</p>
 <br/>
 
 <h2>Agradecimentos</h2>
+<p>
 <a href="https://web.archive.org/web/20030207035337/http://www.dozine.co.jp/duke/" target="_blank">Duke</a><br/>
 <a href="https://eien.nl/en/index.html/" target="_blank">eien</a><br/>
 <a href="https://github.com/Galladite27/ONScripter-EN/" target="_blank">Galladite27</a>
-<br/>
+<br/></p>
 <br/>
 
 <h2>Download do patch</h2>
