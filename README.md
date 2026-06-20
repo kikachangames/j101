@@ -20,7 +20,7 @@
 <h2>Sinopse</h2>
 <p>Takuji Torabishi ouve um som que ele nomeou de "Cinza". Ele não sabe a razão por trás desse som e finalmente começou a perder a habilidade de discernir entre "fantasia" e "realidade".
 </p>
-<p></p>"Fantasia" e "realidade", "vida" e "morte". Estando entre esses conceitos, ele começou a procurar provas de que "vive na realidade".</p>
+<p>"Fantasia" e "realidade", "vida" e "morte". Estando entre esses conceitos, ele começou a procurar provas de que "vive na realidade".</p>
 
 <p>Uma meia-irmã que esconde coisas de seu irmão.<br/>
 Uma energética amiga de infância.<br/>
@@ -84,6 +84,6 @@ E um aluno rodeado de rumores sombrios...</p>
 
 
 <hr>
-<p><small>Última atualização: 19/06/2026.</small></p>
+<p><small>Última atualização: 20/06/2026.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
